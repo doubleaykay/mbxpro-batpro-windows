@@ -36,3 +36,8 @@ Read the values of the relevant EC registers.
 ## Things to do
 1. Central PowerShell Script
 2. Generate RWE scripts with custom threshold values
+
+## Credits
+Based on batpro script in the Linux driver here: https://github.com/nekr0z/linux-on-huawei-matebook-13-2019/blob/master/batpro
+
+RWE implementation inspired by https://github.com/maisi/HP-Spectre-x360-Tools
